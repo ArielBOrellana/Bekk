@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lær deg react i dag... på nrk?
+          Lær deg react i dag eller i morgen.. på nrk?
         </a>
       </header>
     </div>
